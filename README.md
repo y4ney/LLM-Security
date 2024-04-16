@@ -26,5 +26,5 @@
 
 如果您有任何问题、建议或合作意向，欢迎通过 GitHub Issues 、[电子邮件](mailto:yangli.yaney@foxmail.com)或者微信与我们联系。我们可以新疆一个 LLM Security 讨论群聊，期待与您共同打造一个充满活力的语言模型安全学习社区！
 <center>
-  <img src="images/wechat.jpg" alt="Wechat" style="max-width: 300px; max-height: 200px;">
+  <img src="images/wechat.jpg" alt="Wechat" style="max-width: 150px; max-height: 100px;">
 </center>
