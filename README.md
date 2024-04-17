@@ -22,9 +22,17 @@
 1. 点击右上角的 "Star" 按钮关注我们的仓库，以获取最新的更新和通知。
 3. 浏览仓库中的资料，找到您感兴趣的主题，并开始学习与讨论。
 
+## 数据源 📊
+
+1. <https://arxiv.org/>
+2. <https://papers.cool/>
+3. <https://llmsecurity.net/>
+4. <https://llmsecurity.net/>
+5. <https://twitter.com/llm_sec>
+
 ## 联系我们 📧
 
-如果您有任何问题、建议或合作意向，欢迎通过 GitHub Issues 、[电子邮件](mailto:yangli.yaney@foxmail.com)或者微信与我们联系。我们可以新疆一个 LLM Security 讨论群聊，期待与您共同打造一个充满活力的语言模型安全学习社区！
+如果您有任何问题、建议或合作意向，欢迎通过 GitHub Issues 、[电子邮件](mailto:yangli.yaney@foxmail.com)或者微信与我们联系。我们可以新建一个 LLM Security 讨论群聊，期待与您共同打造一个充满活力的语言模型安全学习社区！
 <center>
   <img src="images/wechat.jpg" alt="Wechat" style="max-width: 18px; max-height: 12px;">
 </center>
