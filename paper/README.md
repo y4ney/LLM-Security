@@ -2,6 +2,12 @@
 
 ## 2024-04
 
+6. JailbreakLens：针对大型语言模型的越狱攻击可视化分析
+
+- 📅 日期：2024-04-12
+- 📑 文件：[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](./JailbreakLens-%20Visual%20Analysis%20of%20Jailbreak%20Attacks%20Against%20Large%20Language%20Models.pdf)
+- 🔗 链接：<https://arxiv.org/abs/2404.08793>
+
 5. 次毒性问题：深入探讨大型语言模型在越狱尝试中响应态度的变化
 
 - 📅 日期：2024-04-12
@@ -30,6 +36,6 @@
 
 1. 召唤恶魔并将其束缚：野外LLM红队攻击的实地理论
 
-- 📅 日期：2023-11-10
+- 📅 日期：2023-11-10（最后修改日期：2023-11-13）
 - 📑 文件：[Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild](./Summon%20a%20Demon%20and%20Bind%20it:%20A%20Grounded%20Theory%20of%20LLM%20Red%20Teaming%20in%20the%20Wild.pdf)
 - 🔗 链接：<https://arxiv.org/abs/2311.06237>
