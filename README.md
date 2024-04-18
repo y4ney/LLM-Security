@@ -20,15 +20,14 @@
 ## 如何开始 🚀
 
 1. 点击右上角的 "Star" 按钮关注我们的仓库，以获取最新的更新和通知。
-3. 浏览仓库中的资料，找到您感兴趣的主题，并开始学习与讨论。
+2. 浏览仓库中的资料，找到您感兴趣的主题，并开始学习与讨论。
 
 ## 数据源 📊
 
 1. <https://arxiv.org/>
 2. <https://papers.cool/>
 3. <https://llmsecurity.net/>
-4. <https://llmsecurity.net/>
-5. <https://twitter.com/llm_sec>
+4. <https://twitter.com/llm_sec>
 
 ## 联系我们 📧
 
