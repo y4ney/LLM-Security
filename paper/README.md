@@ -2,6 +2,13 @@
 
 ## 2024-04
 
+7. 介绍来自MLCommons的人工智能安全基准v0.5
+
+- 📅 日期：2024-04-18
+- 📑 文件：[Introducing v0.5 of the AI Safety Benchmark from MLCommons](./Introducing%20v0.5%20of%20the%20AI%20Safety%20Benchmark%20from%20MLCommons.pdf)
+- 🔗 链接：<https://arxiv.org/abs/2404.12241>
+
+
 6. JailbreakLens：针对大型语言模型的越狱攻击可视化分析
 
 - 📅 日期：2024-04-12
