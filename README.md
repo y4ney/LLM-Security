@@ -24,9 +24,13 @@
 
 ## 数据统计
 
-📑 [论文（6）](./paper/README.md)
+📑 [论文（8）](./papers/README.md)
 
-🛠️ [Github 项目（1）](./github-project//README.md)
+🛠️ [Github 项目（2）](./github-project//README.md)
+
+📰 [资讯（2）](./news/README.md)
+
+📜 [演示文稿(1)](./slides/README.md)
 
 ## 数据源 📊
 
@@ -34,6 +38,7 @@
 2. <https://papers.cool/>
 3. <https://llmsecurity.net/>
 4. <https://twitter.com/llm_sec>
+5. <https://wiki.hego.tech/>
 
 ## 联系我们 📧
 
