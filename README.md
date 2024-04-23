@@ -26,7 +26,7 @@
 
 📑 [论文（9）](./papers/README.md)
 
-🛠️ [Github 项目（3）](./github-project//README.md)
+🛠️ [Github 项目（9）](./github-project//README.md)
 
 📰 [资讯（2）](./news/README.md)
 
