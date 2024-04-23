@@ -2,24 +2,30 @@
 
 ## 2024-04
 
-7. 介绍来自MLCommons的人工智能安全基准v0.5
+8. 介绍来自MLCommons的人工智能安全基准v0.5
 
 - 📅 日期：2024-04-18
 - 📑 文件：[Introducing v0.5 of the AI Safety Benchmark from MLCommons](./Introducing%20v0.5%20of%20the%20AI%20Safety%20Benchmark%20from%20MLCommons.pdf)
 - 🔗 链接：<https://arxiv.org/abs/2404.12241>
 
 
-6. JailbreakLens：针对大型语言模型的越狱攻击可视化分析
+7. JailbreakLens：针对大型语言模型的越狱攻击可视化分析
 
 - 📅 日期：2024-04-12
 - 📑 文件：[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](./JailbreakLens-%20Visual%20Analysis%20of%20Jailbreak%20Attacks%20Against%20Large%20Language%20Models.pdf)
 - 🔗 链接：<https://arxiv.org/abs/2404.08793>
 
-5. 次毒性问题：深入探讨大型语言模型在越狱尝试中响应态度的变化
+6. 次毒性问题：深入探讨大型语言模型在越狱尝试中响应态度的变化
 
 - 📅 日期：2024-04-12
 - 📑 文件：[Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts](./Subtoxic%20Questions-%20Dive%20Into%20Attitude%20Change%20of%20LLM's%20Response%20in%20Jailbreak%20Attempts.pdf)
 - 🔗 链接：<https://arxiv.org/abs/2404.08309>
+
+5. AEGIS：使用大型语言模型专家团队进行在线自适应人工智能内容安全审核
+
+- 📅 日期：2024-04-09
+- 📑 文件：[AEGIS- Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts](./AEGIS-%20Online%20Adaptive%20AI%20Content%20Safety%20Moderation%20with%20Ensemble%20of%20LLM%20Experts.pdf)
+- 🔗 链接：<https://arxiv.org/abs/2404.05993>
 
 4. 目标引导的生成式提示注入攻击在大型语言模型上的应用
 
