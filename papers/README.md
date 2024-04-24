@@ -2,6 +2,19 @@
 
 ## 2024-04
 
+11. 大语言模型中的错误标记：分类法与有效检测方法
+
+- 📅 日期：2024-04-19
+- 📑 文件：[Glitch Tokens in Large Language Models: Categorization
+Taxonomy and Effective Detection](./Glitch%20Tokens%20in%20Large%20Language%20Models-%20Categorization%20Taxonomy%20and%20Effective%20Detection.pdf)
+- 🔗 链接：<https://arxiv.org/abs/2404.09894>
+
+10. 指令层次结构：训练大语言模型优先处理特权指令
+
+- 📅 日期：2024-04-19
+- 📑 文件：[The Instruction Hierarchy:Training LLMs to Prioritize Privileged Instructions](./The%20Instruction%20Hierarchy-%20Training%20LLMs%20to%20Prioritize%20Privileged%20Instructions.pdf)
+- 🔗 链接：<https://arxiv.org/abs/2404.13208>
+
 9. 介绍来自MLCommons的人工智能安全基准v0.5
 
 - 📅 日期：2024-04-18
