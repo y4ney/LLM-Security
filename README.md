@@ -24,11 +24,11 @@
 
 ## 数据统计
 
-📑 [论文（11）](./papers/README.md)
+📑 [论文（13）](./papers/README.md)
 
 🛠️ [Github 项目（9）](./github-project//README.md)
 
-📰 [资讯（2）](./news/README.md)
+📰 [资讯（4）](./news/README.md)
 
 📜 [演示文稿(1)](./slides/README.md)
 
@@ -39,6 +39,7 @@
 3. <https://llmsecurity.net/>
 4. <https://twitter.com/llm_sec>
 5. <https://wiki.hego.tech/>
+6. <https://www.darkreading.com/vulnerabilities-threats>
 
 ## 联系我们 📧
 
