@@ -24,11 +24,11 @@
 
 ## 数据统计
 
-📑 [论文（13）](./papers/README.md)
+📑 [论文（18）](./papers/README.md)
 
-🛠️ [Github 项目（9）](./github-project//README.md)
+🛠️ [Github 项目（10）](./github-project//README.md)
 
-📰 [资讯（4）](./news/README.md)
+📰 [资讯（6）](./news/README.md)
 
 📜 [演示文稿(1)](./slides/README.md)
 

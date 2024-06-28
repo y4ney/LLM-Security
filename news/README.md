@@ -1,6 +1,18 @@
 # LLM Security 资讯收集
 
+## 2024-05
+
+6. llama_cpp_python：通过服务器端模板注入模型元数据的远程代码执行（CVSS 9.7）
+
+- 📅 日期：2024-05-11
+- 🔗 链接：[Remote Code Execution by Server-Side Template Injection in Model Metadata](https://github.com/abetlen/llama-cpp-python/security/advisories/GHSA-56xg-wfcc-g829)
+
 ## 2024-04
+
+5. LLM安全验证标准0.0.1
+
+- 📅 日期：2024-04-16
+- 🔗 链接：[LLM Security Verification Standard 0.0.1](https://wiki.hego.tech/owasp/llm-security-verification-standard-0.0.1)
 
 4. 	CVE-2024-3660：Keras 2 Lambda 层允许在 TensorFlow 模型中注入任意代码
 
